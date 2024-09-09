@@ -86,6 +86,3 @@ This project is a small website with a web game in the genre jrpg, written on JS
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
