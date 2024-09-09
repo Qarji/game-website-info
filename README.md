@@ -49,11 +49,7 @@ This project is a small website with a web game in the genre jrpg, written on JS
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td></tr> 
 
 <br/>  
 
